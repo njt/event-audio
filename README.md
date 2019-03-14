@@ -50,9 +50,15 @@ Sample comms to speakers:
 
 > Hi! We’re looking forward to your presentation at our event.
 > Just to let you know, we have three microphone options for you. (1) A wireless over-the-ear microphone, like the rockstars use. (2) A wireless lapel mic, which clips onto a collar or lapel. (3) A wireless handheld mic. The rockstar and lapel microphones have a battery pack attached by wires — the wires have to be threaded through clothing, and the battery pack clips onto a belt or bra strap or the top of a dress. Rockstar microphones can be troublesome with dangly earrings, and lapel microphones can be a problem with long hair.
+> ![image](overear.png)
 > Over-the-ear
+>
+> ![image](handheld.png)
 > Wireless handheld.
+>
+> ![image](lapel.png)
 > Lapel mic
+
 You should have a think about which mic you want to use, and plan accordingly. Show up to the green room (enter via the side corridor) 20 minutes before you’re due to go on, and we’ll get you wired up.
 
 # Gotchas
