@@ -33,10 +33,10 @@ Surgical tape is very useful for keeping an over-the-ear mic on the face. You mu
 Check the batteries before start of day, and in every break (i.e., every two hours or so). Have spares handy.
 ## What to do
 There is no one solution that works for everyone and every outfit. So provide options. The smallest set that will have something for everyone:
-* Wireless Over-the-ear. If hair or earrings or other concerns rule this out, use:
-* Wireless Lavalier. If hair or lack of lapels rules this out, use:
-* Wireless Handheld.
-* Supply armband and waist strap options for battery packs.
+1. Wireless Over-the-ear. If hair or earrings or other concerns rule this out, use:
+1. Wireless Lavalier. If hair or lack of lapels rules this out, use:
+1. Wireless Handheld.
+1. Supply armband and waist strap options for battery packs.
 
 Mic up your speakers backstage for their privacy.
  
@@ -49,7 +49,9 @@ If you can have an A/V walkthrough well before they are to present, do it. It re
 Sample comms to speakers:
 
 > Hi! We’re looking forward to your presentation at our event.
+>
 > Just to let you know, we have three microphone options for you. (1) A wireless over-the-ear microphone, like the rockstars use. (2) A wireless lapel mic, which clips onto a collar or lapel. (3) A wireless handheld mic. The rockstar and lapel microphones have a battery pack attached by wires — the wires have to be threaded through clothing, and the battery pack clips onto a belt or bra strap or the top of a dress. Rockstar microphones can be troublesome with dangly earrings, and lapel microphones can be a problem with long hair.
+>
 > ![image](overear.png)
 > Over-the-ear
 >
@@ -58,8 +60,8 @@ Sample comms to speakers:
 >
 > ![image](lapel.png)
 > Lapel mic
-
-You should have a think about which mic you want to use, and plan accordingly. Show up to the green room (enter via the side corridor) 20 minutes before you’re due to go on, and we’ll get you wired up.
+>
+> You should have a think about which mic you want to use, and plan accordingly. Show up to the green room (enter via the side corridor) 20 minutes before you’re due to go on, and we’ll get you wired up.
 
 # Gotchas
 * Thinking all speakers are the same. Comfort depends upon hair, jewelry, fashion, and preference, so what works for one will not work for all.
