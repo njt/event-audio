@@ -28,18 +28,22 @@ Here you have a microphone (usually operated by a sound person) at the front of 
 ## Battery Packs
 Some clothing doesn’t have an option for a battery pack to clip onto. You can make (or buy) elastic armbands that hold the battery pack, like a sporty iPod strap. Similarly, an elastic waistband or moneybelts can give something to clip onto or keep the unit inside. Arm bands don’t look good on everyone (women with large figures or non-binary folks may opt out of the look of the arm band).
 
+Some speakers reported sound crews keeping a small handbag or selection of belts to provide options for speakers on where to put the battery pack. Don't assume that your accessories will work for everyone.
+
 Wires connect the mic (lavalier or over-the-ear) to the battery pack, and these wires are generally run inside the outer layer of clothing so as not to be distracting. Consequently, there can be some faffing around under shirts, blouses, dresses, etc. Do not make people do this in public.
 
 Surgical tape is very useful for keeping an over-the-ear mic near the mouth. You must ask first whether the speaker is allergic to surgical tape.
 
 Check the batteries before you start, and in every break (i.e., every two hours or so). Most good quality wireless mics will last at least 6 hours, but it always pays to check. Have plenty of spare batteries handy.
 ## What to do
-There is no one solution that works for everyone and every outfit, so provide options. The smallest set that will have something for everyone (roughly speaking, best-to-worst options):
+There is no one solution that works for everyone and every outfit, so provide options. The smallest set that will have something for everyone is basically one of each (roughly speaking, best-to-worst options):
 1. Wireless over-the-ear. If hair or earrings or other concerns rule this out, use:
 1. Wireless Lavalier. If hair or lack of lapels rules this out, use:
 1. Wireless Handheld. If all options fail, or the presenter prefers to be static, use:
 1. Lecturn / podium with fixed-position mic
-1. Supply armband and waist strap options for battery packs.
+Supply armband and waist strap options for battery packs of over-the-ear and lavalier units.
+
+If you are unable to have all options available, for whatever reason, then prefer those at the head of the list to those at the end.
 
 Mic up your speakers backstage for their privacy.
  
@@ -75,6 +79,7 @@ Most conferences send information to speakers ahead of the event so they can pre
 * Making any physical contact with a presenter that you haven't discussed first. AV techs often have to reach into intimate places (e.g. inside shirts, attaching beltpacks to bra straps etc.) which can make presenters uncomfortable at best. 
 * Putting surgical tape on someone who is allergic.
 * Making speakers sit. If speakers will sit down, e.g. in a panel, put them behind a desk that is entirely covered at the front (e.g. with a table skirt). Short skirts are not compatible with sitting.
+* "I don't need the microphone, you can all hear me right?" Using a microphone is an accessibility issue. As event organiser, you must force it by saying something like "please use the mic, for the folks in the room who need the extra volume".
 
 # Experiences to Consider
 These are from [this Twitter thread](https://twitter.com/gnat/status/1106003082914127872). These are the experiences of professional public speaking women, who have had a lot of good and bad microphone experiences.
