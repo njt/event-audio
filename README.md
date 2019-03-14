@@ -32,7 +32,7 @@ Some speakers reported sound crews keeping a small handbag or selection of belts
 
 Wires connect the mic (lavalier or over-the-ear) to the battery pack, and these wires are generally run inside the outer layer of clothing so as not to be distracting. Consequently, there can be some faffing around under shirts, blouses, dresses, etc. Do not make people do this in public.
 
-Surgical tape is very useful for keeping an over-the-ear mic near the mouth. You must ask first whether the speaker is allergic to surgical tape.
+Surgical tape is very useful for keeping an over-the-ear mic near the mouth. You must ask first whether the speaker is allergic to surgical tape. Low-allergy surgical tape is [Leukofix](https://www.bsnmedical.com/products/wound-care-vascular/category-product-search/acute-wound-care/fixation/leukofixr.html) but still ask before using it.
 
 Check the batteries before you start, and in every break (i.e., every two hours or so). Most good quality wireless mics will last at least 6 hours, but it always pays to check. Have plenty of spare batteries handy.
 ## What to do
