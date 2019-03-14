@@ -6,47 +6,50 @@ Mindset: the goal is to have each speaker wear what they want, look however they
 
 Do not think: this is a distraction, the speaker should just work with the soundgear I’ve got. You disrespect your speakers (especially women and nonbinary, for whom clothing, hair, and jewelry can interfere with some microphones), you’ll get the worst from them, and you are placing the responsibility for success on your speakers but denying them the ability to be successful. In short, this is the kind of thinking that makes for a crappy event and speaker experience. (Speakers talk, and word of a poor experience gets around)
 
-> *TL;DR: provide an over-the-ear, a lavalier, and a handheld. Give speakers the options and let them make a choice well before their talk. Have friendly staff and a private area to mic up.*
+> *TL;DR: provide an over-the-ear, lavalier, and handheld options at minimum. Give speakers the options and let them make a choice well before their talk. Have friendly staff and a private area to mic up. Ideally have more than just men in your AV team.*
 
 This was compiled by Nat Torkington <nathan@torkington.com>, from the contributions of many wonderful people on Twitter. Thanks to Mike Forbes for proofreading and sanity-checking. Released at https://github.com/njt/event-audio under Creative Commons Attribution (CC-BY 4.0). Please use and improve, and let me know if you make it better. Thanks!
 
 ## Mic Options
-(Mic = microphone) First, let’s review your options. There are five main ways to pick up the speech of a speaker.
+(Mic = microphone) First, let’s review your options. There are four main ways (and a couple of other options) to pick up the speech of a speaker.
 
 ### Podium
-This is a mic fixed onto the lectern. Lecterns are trouble for many people because they’re a fixed height, but people are not. Some speakers will only appear to be eyebrows peeking over the top of the lectern, while others will loom like giants. Podium mics are also fixed in place, so speakers who like to pace are in trouble (as are any audience members for whom the lectern is between them and the screen).
+This is a fixed mic, usually attached onto a lectern. Lecterns are trouble for many people because they’re a fixed height, but people are not. Some speakers will only appear to be eyebrows peeking over the top of the lectern, while others will loom like giants. Podium mics are usually flexible, but only to a point. They don't work at all for speakers who like to pace, and audience members between the podium and screen generally get annoyed with being unable to see.
 ### Handheld
-Now the speaker can roam. However, many speakers (especially those who are not professional speakers) do not know how to use a handheld mic. They hold it away from their face, or instinctively relax their holding arm mid-sentence resulting in “Great speech that fades away halfway through the sentence.”  The best advice I’ve heard is: “it’s an ice cream—put it in your face”, but many people can’t relax while they’re carrying the mic. And, of course, if you have a clicker, now their hands are full and gesturing is hard. These are often wireless, with batteries in the body of the mic (so no external battery pack).
+Now the speaker can roam. However, many speakers (especially those who are not professional speakers) do not know how to use a handheld mic. They hold it away from their face, or instinctively relax their holding arm mid-sentence resulting in “Great speech that fades away halfway through the sentence.”  The best advice I’ve heard is: “it’s an ice cream — put it in your face”, but many people can’t relax while they’re holding the mic. And, of course, if you have a clicker, now their hands are full and gesturing is hard. These should always be wireless, with batteries in the body of the mic (so no external battery pack required).
 ### Lavalier (Lapel)
-These are small mics that clip onto the lapel or collar of a shirt. Not everyone wears shirts with affordances for these, and many dresses are incompatible with lavaliers. These are wireless and have a battery pack which must be clipped on, yet not every item of clothing has a place that can be clipped. (See below for solutions) Speakers who move their heads a lot can generate a lot of rustling, and hair can be challenging.
+These are small mics that clip onto the lapel or collar of a shirt, with the wire running inside the shirt. Not everyone wears shirts with affordances for these, and many dresses are incompatible with lavaliers. These are wireless and have a battery pack which must be clipped on, yet not every item of clothing has a place that can be clipped (see below for solutions). Speakers who gesture a lot or who move their upper body can generate a lot of rustling. Long hair can be challenging, especially with poor quality lavalier mics.
 ### Over-the-Ear (Madonna)
-These clip over the ear, and have an arm that extends with a small mic to go near the mouth. They provide great sound quality, especially for people who move their heads a lot. Earrings and hair that falls over the front of the face can interfere with the mic. As with lavaliers, they come with a battery pack which must be clipped on, and not every outfit has a place that can be clipped (see below for solutions).
+These attach over the ear, and have a small boom that extends with a small mic to go near the mouth, with a wire running down the back of the speaker (either inside or outside clothing). They provide great sound quality, and provided they are attached correctly work great for people who move their heads a lot. Earrings and hair that falls over the front of the face can interfere with the mic. As with lavaliers, they come with a battery pack which must be clipped on, and not every outfit has a place that can be clipped (see below for solutions). Most over-the-ear mics work fine with long hair, although dreadlocks can be challenging. Earrings that dangle or move below the earlobe are usually fine so long as the wire is pulled away towards the back - but especially long or wide earrings can be an issue. Good quality over-the-ear mics generally provide the most consistent audio with the least amount of unwanted noise.
 ### Boom
-Here you have a professional sound person operating a mic that’s on a long stick. The stick goes over the head of the speaker, out of sight of the audience, and captures the speaker’s words. This is expensive, and I have no experience with it.
+Here you have a professional sound person operating a mic that’s on a long stick. The stick goes over the head of the speaker, which is out of camera shot in professional recordings, but is visible to live audiences, and captures the speaker’s words from above. This is expensive, and I have no experience with it.
+### Shotgun
+Here you have a microphone (usually operated by a sound person) at the front of the stage, pointing directly at the speaker's face. Not recommended for any practical purpose, included here for complete-ness only. Don't bother with this option.
 ## Battery Packs
-Some clothing doesn’t have an option for a battery pack to clip onto. You can make elastic armbands that hold the battery pack, like a sporty iPod strap. Similarly, an elastic waistband can give something to clip onto. Arm bands don’t look good on everyone (women with large figures or non-binary folks may opt out of the look of the arm band).
+Some clothing doesn’t have an option for a battery pack to clip onto. You can make (or buy) elastic armbands that hold the battery pack, like a sporty iPod strap. Similarly, an elastic waistband or moneybelts can give something to clip onto or keep the unit inside. Arm bands don’t look good on everyone (women with large figures or non-binary folks may opt out of the look of the arm band).
 
 Wires connect the mic (lavalier or over-the-ear) to the battery pack, and these wires are generally run inside the outer layer of clothing so as not to be distracting. Consequently, there can be some faffing around under shirts, blouses, dresses, etc. Do not make people do this in public.
 
-Surgical tape is very useful for keeping an over-the-ear mic on the face. You must ask first whether the speaker is allergic to surgical tape.
+Surgical tape is very useful for keeping an over-the-ear mic near the mouth. You must ask first whether the speaker is allergic to surgical tape.
 
-Check the batteries before start of day, and in every break (i.e., every two hours or so). Have spares handy.
+Check the batteries before you start, and in every break (i.e., every two hours or so). Most good quality wireless mics will last at least 6 hours, but it always pays to check. Have plenty of spare batteries handy.
 ## What to do
-There is no one solution that works for everyone and every outfit. So provide options. The smallest set that will have something for everyone:
-1. Wireless Over-the-ear. If hair or earrings or other concerns rule this out, use:
+There is no one solution that works for everyone and every outfit, so provide options. The smallest set that will have something for everyone (roughly speaking, best-to-worst options):
+1. Wireless over-the-ear. If hair or earrings or other concerns rule this out, use:
 1. Wireless Lavalier. If hair or lack of lapels rules this out, use:
-1. Wireless Handheld.
+1. Wireless Handheld. If all options fail, or the presenter prefers to be static, use:
+1. Lecturn / podium with fixed-position mic
 1. Supply armband and waist strap options for battery packs.
 
 Mic up your speakers backstage for their privacy.
  
-If you have A/V staff assisting, try to have at least one woman. All must be positive: “let’s get you a mic that works for you” not “your hair is in the way”. Always ask permission before adjusting anything.
+If you have A/V staff assisting, try to have at least one woman. All must be positive: “let’s get you a mic that works for you” not “your hair is in the way” or "we have to clip this to your underwear because you're not wearing a belt". **Always** ask permission before adjusting anything, and make sure you tell the presenter what you're doing before you do it.
 
 Tell speakers well ahead of time what options there are. They may choose clothing or jewelry to enable their preferred microphone option (you can also gently suggest that people forego dangly earrings if they want to use the over-the-ear mic). Don’t make them choose from the options just as they’re about to go on: generally all their attention is on their presentation and not vomiting from nerves.
 
 If you can have an A/V walkthrough well before they are to present, do it. It reassures speakers to know that their slides will show up correctly, and you can discover any incompatibilities between clothing, hair, jewelry, and microphone. 
 
-Sample comms to speakers:
+Most conferences send information to speakers ahead of the event so they can prepae. Here's some sample comms to speakers on microphone options (you should also include info on the presentation setup e.g. aspect ratio for slides, but that's out of scope for this):
 
 > Hi! We’re looking forward to your presentation at our event.
 >
@@ -68,9 +71,10 @@ Sample comms to speakers:
 * Flat batteries in battery packs or handheld mics.
 * Surprising speakers with only one mic style.
 * Wiring speakers up in public.
-* Fixed-height podiums.
+* Fixed-height podiums (some presenters don't mind standing on a small platform/box to raise them up - but don't force this on anyone).
+* Making any physical contact with a presenter that you haven't discussed first. AV techs often have to reach into intimate places (e.g. inside shirts, attaching beltpacks to bra straps etc.) which can make presenters uncomfortable at best. 
 * Putting surgical tape on someone who is allergic.
-* Making speakers sit. If speakers will sit down, e.g. in a panel, put them behind a desk with a skirt. Short skirts are not compatible with sitting.
+* Making speakers sit. If speakers will sit down, e.g. in a panel, put them behind a desk that is entirely covered at the front (e.g. with a table skirt). Short skirts are not compatible with sitting.
 
 # Experiences to Consider
 These are from [this Twitter thread](https://twitter.com/gnat/status/1106003082914127872). These are the experiences of professional public speaking women, who have had a lot of good and bad microphone experiences.
